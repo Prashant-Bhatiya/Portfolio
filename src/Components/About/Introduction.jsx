@@ -13,7 +13,7 @@ export const Introduction = () => {
           <div className="introduction">
             <div className="introduction_logocontainer">
               <img
-                src= "https://avatars.githubusercontent.com/u/89850673?s=400&u=dabffd0f229fdc9b424f2e1c69c9c11ba50fa0c2&v=4"
+                src= "https://i.ibb.co/n0ZR7Wx/profile-pic-6.png"
                 alt="Images"
               />
             </div>
