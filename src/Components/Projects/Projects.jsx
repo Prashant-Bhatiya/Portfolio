@@ -37,9 +37,11 @@ export const Projects = () => {
             <div className="project_information" data-aos="fade-right">
               <h2>Shopbop Clone</h2>
               <p>
-                Shopbop is the global online retail destination for style
-                inspiration and discovery, offering women and men a curated
-                selection of ready-to-wear & accessories.
+                This project was cloned individually by me and completed in just
+                4 days.Cloned the Shopbop.com website which is a global online
+                Retail E-commerce Website. I have Created and Built the entire
+                website and all the pages from scratch ~ sign in Page to payment page
+                & Integrated all the pages
               </p>
               <div>
                 <SiHtml5 />
@@ -83,9 +85,12 @@ export const Projects = () => {
             <div className="project_information" data-aos="fade-right">
               <h2>Stylecraze Clone</h2>
               <p>
-                StyleCraze is a global women's platform that aims to answer one
-                question: what do women want? From health and wellness to
-                lifestyle and beauty.
+                Cloned the Stylecraze.com website which is a global online web
+                platform that features all women's health, lifestyle & beauty
+                tips. This project was collaborated by a team of 5 and completed
+                in just 5 days. I have Created the Header and Footer for all
+                Pages & Developed complete Responsiveness website with Merging
+                all the pages of the website.
               </p>
               <div>
                 <SiExpress />
