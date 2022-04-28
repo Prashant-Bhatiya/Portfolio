@@ -64,7 +64,7 @@ in a challenging environment to hone industry skill.
             <LinkedInIcon />
           </a>
           <a
-            href="https://drive.google.com/file/d/1OoYS32BrtMvxM2NygiMseDoPhDnqlVGB/view?usp=sharing"
+            href="https://drive.google.com/file/d/1nkQUW_vqLKes6GfDz_ud-XgVdGzK1m0l/view?usp=sharing"
             aria-label="github"
             className="link link--icon"
             target="_blank"
