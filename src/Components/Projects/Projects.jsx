@@ -38,10 +38,9 @@ export const Projects = () => {
               <h2>Shopbop Clone</h2>
               <p>
                 This project was cloned individually by me and completed in just
-                4 days.Cloned the Shopbop.com website which is a global online
-                Retail E-commerce Website. I have Created and Built the entire
-                website and all the pages from scratch ~ sign in Page to payment page
-                & Integrated all the pages
+                4 days. I have Cloned the Shopbop.com entire website and bult
+                all the pages from scratch ~ sign in Page to payment page &
+                Integrated all the pages.
               </p>
               <div>
                 <SiHtml5 />
@@ -85,12 +84,10 @@ export const Projects = () => {
             <div className="project_information" data-aos="fade-right">
               <h2>Stylecraze Clone</h2>
               <p>
-                Cloned the Stylecraze.com website which is a global online web
-                platform that features all women's health, lifestyle & beauty
-                tips. This project was collaborated by a team of 5 and completed
-                in just 5 days. I have Created the Header and Footer for all
-                Pages & Developed complete Responsiveness website with Merging
-                all the pages of the website.
+                Cloned the Stylecraze.com website. This project was collaborated
+                by a team of 5 and completed in just 5 days. I have Created the
+                Header and Footer for all Pages & Developed and Merged all the
+                pages of the website with Responsiveness.
               </p>
               <div>
                 <SiExpress />
