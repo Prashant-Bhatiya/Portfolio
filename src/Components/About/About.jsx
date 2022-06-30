@@ -20,11 +20,10 @@ export const About = () => {
         </h1>
         <Type />
         <p className="about__desc" data-aos="fade-right">
-        An inquisitive and highly motivated full stack web
-  developer with specialisation in MERN stack. Have
-relevant hands-on experience in building multiple
-websites from scratch. Seeking to pursue a career
-in a challenging environment to hone industry skill.
+          An inquisitive and highly motivated full stack web developer with
+          specialisation in MERN stack. Have relevant hands-on experience in
+          building multiple websites from scratch. Seeking to pursue a career in
+          a challenging environment to hone industry skill.
         </p>
         <div className="about__contact center">
           <a
@@ -64,7 +63,7 @@ in a challenging environment to hone industry skill.
             <LinkedInIcon />
           </a>
           <a
-            href="https://drive.google.com/file/d/1nkQUW_vqLKes6GfDz_ud-XgVdGzK1m0l/view?usp=sharing"
+            href="https://drive.google.com/file/d/1oZbPSdAQsEv2Irr5ihglNKQDHJRmLVcb/view?usp=sharing"
             aria-label="github"
             className="link link--icon"
             target="_blank"
