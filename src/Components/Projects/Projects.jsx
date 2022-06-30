@@ -13,6 +13,9 @@ import {
   SiTailwindcss,
   SiReactrouter,
   SiJavascript,
+  SiNodedotjs,
+  SiMongodb,
+  SiHeroku,
 } from "react-icons/si";
 import { DiCss3, DiMongodb } from "react-icons/di";
 import { VscJson } from "react-icons/vsc";
@@ -29,28 +32,30 @@ export const Projects = () => {
             <div className="project_videocontainer">
               <div data-aos="fade-right">
                 <img
-                  src="https://i.ibb.co/t3vtt29/Display-picture.png"
-                  alt="Stylecraze"
+                  src="https://i.ibb.co/ZYBmbmX/Screenshot-from-2022-06-30-10-24-04.png"
+                  alt="Travelocity"
                 />
               </div>
             </div>
             <div className="project_information" data-aos="fade-right">
-              <h2>Shopbop Clone</h2>
+              <h2>Travelocity Clone</h2>
               <p>
-                This project was cloned individually by me and completed in just
-                4 days. I have Cloned the Shopbop.com entire website and bult
-                all the pages from scratch ~ sign in Page to payment page &
-                Integrated all the pages.
+                Cloned the Travelocity.com website. I have Created Routes and
+                Built Pages and to develop single-page Applications with Login
+                Authentication System using Redux. This project was collaborated
+                by team of 5 and completed in just 5 days.
               </p>
               <div>
+                <FaReact />
                 <SiHtml5 />
-                <DiCss3 />
-                <SiJavascript />
-                <SiTailwindcss />
+                <IoLogoJavascript />
+                <SiNodedotjs />
+                <SiExpress />
+                <SiHeroku />
               </div>
               <div>
                 <a
-                  href="https://shopbop-com.netlify.app"
+                  href="https://travelocity-cloned.vercel.app/"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -59,7 +64,7 @@ export const Projects = () => {
                   </span>
                 </a>
                 <a
-                  href="https://github.com/bhatiyacode/Shopbop.github.io"
+                  href="https://github.com/Prashant-Bhatiya/Travelocity-clone"
                   target="_blank"
                   rel="noreferrer"
                 >
